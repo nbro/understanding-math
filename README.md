@@ -22,7 +22,7 @@ Links to resources talking about mathematical notation and how to overcome probl
 
 - [How to understand math formulas](http://www.intmath.com/blog/how-to-understand-math-formulas) at [Interactive Mathematics](http://www.intmath.com/)
 
-- [How to write mathematics clearly and keep more readers](http://www.learningideas.me.uk/clearmaths/#p_familiar_symbols) by Matthew Leitch 
+- [How to write mathematics clearly and keep more readers](http://www.learningideas.me.uk/clearmaths) by Matthew Leitch 
 
 - [math-as-code](https://github.com/Jam3/math-as-code) by Jam3 (Github's repository)
 
@@ -36,7 +36,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 - [Mathematical Operators](http://unicode.org/charts/PDF/U2200.pdf) at [http://unicode.org](http://unicode.org)
 
 - [Some Common Mathematical Symbols
-and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf) by Isaiah Lankham, Bruno Nachtergaele, Anne Schilling ([https://www.math.ucdavis.edu](https://www.math.ucdavis.edu))
+and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf) by Isaiah Lankham, Bruno Nachtergaele, Anne Schilling
 
 - [A Guide to Writing Mathematics](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) by Dr. Kevin P. Lee
 
@@ -64,3 +64,5 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 ## Videos
 
 - [Mathematical Notation - The Language of Mathematics](https://www.youtube.com/watch?v=Y-c_CgxxPF0) by Sarada Herke
+
+- [Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos) TEDx talk by Randy Palisoc

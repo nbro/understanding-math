@@ -76,6 +76,8 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 
 - [How to become comfortable with mathematical notation?](http://ask.metafilter.com/117088/How-to-become-comfortable-with-mathematical-notation) at [http://ask.metafilter.com/](http://ask.metafilter.com/)
 
+- [What is the status of generating LaTeX from handwriting](http://tex.stackexchange.com/questions/1443/what-is-the-status-of-generating-latex-from-handwriting-i-e-ocr) at [http://tex.stackexchange.com/](http://tex.stackexchange.com/)
+
 ### Slides
 
 - [MathsNotation2013](https://www.adelaide.edu.au/mathslearning/seminars/MathsNotation2013.pdf) by [https://www.adelaide.edu.au](https://www.adelaide.edu.au)

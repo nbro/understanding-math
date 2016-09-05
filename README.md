@@ -1,8 +1,12 @@
-# mathematical-language
+# Understanding Mathematics
+
+- [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
+
+## Mathematical Language
 
 Links to resources talking about "the mathematical language" and how to overcome problems encountered when _reading, writing, interpreting and listening to mathematics_.
 
-## Articles
+### Articles
 
 - [Language of mathematics](https://en.wikipedia.org/wiki/Language_of_mathematics) at [Wikipedia](https://en.wikipedia.org)
 
@@ -17,7 +21,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [The symbolic language of math](http://www.abstractmath.org/MM/MMSymLang.htm) by Charles Wells
 
 
-## Papers
+### Papers
 
 - [The Language and Grammar of
 Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
@@ -33,18 +37,18 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 - [Learning the Language of Mathematics](http://wac.colostate.edu/llad/v4n1/jamison.pdf) by Robert E. Jamison 
 
 
-## Books
+### Books
 
 - [Handbook for Spoken Mathematics](http://web.efzg.hr/dok/MAT/vkojic/Larrys_speakeasy.pdf) by Lawrence A. Chang, Ph.D. (with assistance from Carol M. White and Lila Abrahamson)
 
 - [A Handbook of Mathematical Discourse](http://www.abstractmath.org/Handbook/handbook.pdf) by Charles Wells
 
-## Videos
+### Videos
 
 - [Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos) TEDx talk by Randy Palisoc
 
 
-## Notation
+## Mathematical Notation
 
 ### Articles
 

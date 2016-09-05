@@ -6,6 +6,7 @@
 ## Papers
 
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
+- [Mathematics, morally](http://www.cheng.staff.shef.ac.uk/morality/morality.pdf) by Eugenia Cheng
 
 ## Online Questions
 

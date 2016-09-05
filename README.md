@@ -1,12 +1,27 @@
 # Understanding Mathematics
 
+## Articles
 - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
 
-## Mathematical Language
+## Papers
+
+- [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
+
+## Books
+
+- [Measurement](http://www.hup.harvard.edu/catalog.php?isbn=9780674284388) by Paul Lockhart
+- [A Mathematician's Lament](http://www.goodreads.com/book/show/6232657-a-mathematician-s-lament) by Paul Lockhart
+
+## Videos
+
+- [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
+- [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
+
+### Mathematical Language
 
 Links to resources talking about "the mathematical language" and how to overcome problems encountered when _reading, writing, interpreting and listening to mathematics_.
 
-### Articles
+#### Articles
 
 - [Language of mathematics](https://en.wikipedia.org/wiki/Language_of_mathematics) at [Wikipedia](https://en.wikipedia.org)
 
@@ -21,7 +36,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [The symbolic language of math](http://www.abstractmath.org/MM/MMSymLang.htm) by Charles Wells
 
 
-### Papers
+#### Papers
 
 - [The Language and Grammar of
 Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
@@ -37,20 +52,20 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 - [Learning the Language of Mathematics](http://wac.colostate.edu/llad/v4n1/jamison.pdf) by Robert E. Jamison 
 
 
-### Books
+#### Books
 
 - [Handbook for Spoken Mathematics](http://web.efzg.hr/dok/MAT/vkojic/Larrys_speakeasy.pdf) by Lawrence A. Chang, Ph.D. (with assistance from Carol M. White and Lila Abrahamson)
 
 - [A Handbook of Mathematical Discourse](http://www.abstractmath.org/Handbook/handbook.pdf) by Charles Wells
 
-### Videos
+#### Videos
 
 - [Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos) TEDx talk by Randy Palisoc
 
 
-## Mathematical Notation
+### Mathematical Notation
 
-### Articles
+#### Articles
 
 - [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) at [Wikipedia](https://en.wikipedia.org)
 
@@ -64,7 +79,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at [Wikipedia](https://en.wikipedia.org)
 
-### Papers
+#### Papers
 
 - [Mathematical Operators](http://unicode.org/charts/PDF/U2200.pdf) at [http://unicode.org](http://unicode.org)
 
@@ -72,7 +87,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf) by Isaiah Lankham, Bruno Nachtergaele, Anne Schilling
 
 
-### Online Questions
+#### Online Questions
 
 - [Where can I learn about mathematical notation?](http://math.stackexchange.com/questions/70080/where-can-i-learn-about-mathematical-notation) at [http://math.stackexchange.com](http://math.stackexchange.com)
 
@@ -82,22 +97,22 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 
 - [What is the status of generating LaTeX from handwriting](http://tex.stackexchange.com/questions/1443/what-is-the-status-of-generating-latex-from-handwriting-i-e-ocr) at [http://tex.stackexchange.com/](http://tex.stackexchange.com/)
 
-### Slides
+#### Slides
 
 - [MathsNotation2013](https://www.adelaide.edu.au/mathslearning/seminars/MathsNotation2013.pdf) by [https://www.adelaide.edu.au](https://www.adelaide.edu.au)
 
-### Books
+#### Books
 
 - [Mathematical Notation: A Guide for Engineers and Scientists](http://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/ref=sr_1_1?s=books&ie=UTF8&qid=1355100927&sr=1-1&keywords=mathematical+notation) by Edward R. Scheinerman
 
-### Writing
+#### Writing
 
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics) at [Wikipedia](https://en.wikipedia.org)
 
-### Videos
+#### Videos
 
 - [Mathematical Notation - The Language of Mathematics](https://www.youtube.com/watch?v=Y-c_CgxxPF0) by Sarada Herke
 
-### Github
+#### Github
 
 - [math-as-code](https://github.com/Jam3/math-as-code) by Jam3 (Github's repository)

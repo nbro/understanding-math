@@ -2,15 +2,25 @@
 
 ## Articles
 - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
+- [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [https://betterexplained.com](https://betterexplained.com)
+- [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [https://www.quora.com](https://www.quora.com)
+- [Understanding Math Concepts](http://www.allkindsofminds.org/thinking-with-numbers-understanding-math-concepts) at [http://www.allkindsofminds.org/](http://www.allkindsofminds.org/)
+- [What is conceptual understanding?](https://www.maa.org/external_archive/devlin/devlin_09_07.html) by Keith Devlin
 
 ## Papers
 
+- [Teaching Mathematics for Understanding](http://ptgmedia.pearsoncmg.com/imprint_downloads/merrill_professional/Van_de_Walle_9780132824828.pdf) by Van De Walle
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
 - [Mathematics, morally](http://www.cheng.staff.shef.ac.uk/morality/morality.pdf) by Eugenia Cheng
+
 
 ## Online Questions
 
 - [How to study math to really understand it and have a healthy lifestyle with free time?](http://math.stackexchange.com/questions/44704/how-to-study-math-to-really-understand-it-and-have-a-healthy-lifestyle-with-free) at [http://math.stackexchange.com/](http://math.stackexchange.com/)
+
+## Slides
+
+- [Teaching for Conceptual Understanding: Exciting Mathematics](http://math.rice.edu/~rusmp/presentations/Copley2008SpringNetworkingConference.pdf) by Juanita Copley
 
 ## Books
 
@@ -19,8 +29,10 @@
 
 ## Videos
 
+- [Understanding the Language of The Universe](https://www.youtube.com/watch?v=fIBw3BgjgwI), documentary by World Documentary Movies
 - [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
 - [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
+
 
 ### Mathematical Language
 

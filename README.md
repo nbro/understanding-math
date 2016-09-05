@@ -7,6 +7,10 @@
 
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
 
+## Online Questions
+
+- [How to study math to really understand it and have a healthy lifestyle with free time?](http://math.stackexchange.com/questions/44704/how-to-study-math-to-really-understand-it-and-have-a-healthy-lifestyle-with-free) at [http://math.stackexchange.com/](http://math.stackexchange.com/)
+
 ## Books
 
 - [Measurement](http://www.hup.harvard.edu/catalog.php?isbn=9780674284388) by Paul Lockhart

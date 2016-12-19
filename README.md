@@ -143,3 +143,9 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 #### Github
 
 - [math-as-code](https://github.com/Jam3/math-as-code) by Jam3 (Github's repository)
+
+### Mathematical Proofs
+
+#### Articles
+
+- [Some Help on Reading Mathematics and Creating Proofs](http://www.math.ucsd.edu/~ebender/proofs.html)

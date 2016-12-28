@@ -89,6 +89,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 #### Websites
 
+- [http://www.wolframalpha.com/](http://www.wolframalpha.com/)
 - [http://www.mathwords.com/](http://www.mathwords.com/)
 
 #### Articles

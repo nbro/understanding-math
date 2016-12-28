@@ -35,6 +35,7 @@
 - [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
 - [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
 
+---
 
 ### Mathematical Language
 
@@ -82,7 +83,13 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 - [Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos) TEDx talk by Randy Palisoc
 
 
-### Mathematical Notation and Terminology
+---
+
+### Mathematical Notation, Terminology and Formulas
+
+#### Websites
+
+- [http://www.mathwords.com/](http://www.mathwords.com/)
 
 #### Articles
 
@@ -143,6 +150,8 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 #### Github
 
 - [math-as-code](https://github.com/Jam3/math-as-code) by Jam3 (Github's repository)
+
+---
 
 ### Mathematical Proofs
 

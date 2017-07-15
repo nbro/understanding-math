@@ -32,7 +32,8 @@
 
 ## Videos
 
-- [Understanding the Language of The Universe](https://www.youtube.com/watch?v=fIBw3BgjgwI), documentary by World Documentary Movies
+
+- [Mathematics - The Language of the Universe](https://www.youtube.com/watch?v=KWkQU99Aoxg)
 - [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
 - [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
 

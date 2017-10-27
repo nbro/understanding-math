@@ -29,6 +29,7 @@
 
 - [Measurement](http://www.hup.harvard.edu/catalog.php?isbn=9780674284388) by Paul Lockhart
 - [A Mathematician's Lament](http://www.goodreads.com/book/show/6232657-a-mathematician-s-lament) by Paul Lockhart
+- [The Art and Craft of Problem Solving](https://kheavan.files.wordpress.com/2010/06/paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011.pdf) by Paul Zeitz
 
 ## Videos
 

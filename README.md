@@ -108,6 +108,18 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at [Wikipedia](https://en.wikipedia.org)
 
+- [Set notation](https://en.wikipedia.org/wiki/Set_notation) at [Wikipedia](https://en.wikipedia.org)
+
+- [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics) at [Wikipedia](https://en.wikipedia.org)
+
+- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiatio) at [Wikipedia](https://en.wikipedia.org)
+
+- [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject) at [Wikipedia](https://en.wikipedia.org)
+
+
+
+
+
 #### Papers
 
 - [Mathematical Operators](http://unicode.org/charts/PDF/U2200.pdf) at [http://unicode.org](http://unicode.org)

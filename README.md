@@ -116,9 +116,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject) at [Wikipedia](https://en.wikipedia.org)
 
-
-
-
+- [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms) at [Wikipedia](https://en.wikipedia.org)
 
 #### Papers
 

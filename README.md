@@ -2,11 +2,11 @@
 
 ## Articles
 - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
-- [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [https://betterexplained.com](https://betterexplained.com)
-- [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [https://www.quora.com](https://www.quora.com)
-- [Understanding Math Concepts](http://www.allkindsofminds.org/thinking-with-numbers-understanding-math-concepts) at [http://www.allkindsofminds.org/](http://www.allkindsofminds.org/)
+- [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [BetterExplained](https://betterexplained.com)
+- [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [Quora](https://www.quora.com)
+- [Understanding Math Concepts](http://www.allkindsofminds.org/thinking-with-numbers-understanding-math-concepts) at [AllKindsOfMinds](http://www.allkindsofminds.org/)
 - [What is conceptual understanding?](https://www.maa.org/external_archive/devlin/devlin_09_07.html) by Keith Devlin
-- [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/) at [https://betterexplained.com/](https://betterexplained.com/)
+- [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/) at [BetterExplained](https://betterexplained.com/)
 - [How to study math](http://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx) by [Paul](http://tutorial.math.lamar.edu/)
 
 ## Papers
@@ -19,7 +19,7 @@
 
 ## Online Questions
 
-- [How to study math to really understand it and have a healthy lifestyle with free time?](http://math.stackexchange.com/questions/44704/how-to-study-math-to-really-understand-it-and-have-a-healthy-lifestyle-with-free) at [http://math.stackexchange.com/](http://math.stackexchange.com/)
+- [How to study math to really understand it and have a healthy lifestyle with free time?](http://math.stackexchange.com/questions/44704/how-to-study-math-to-really-understand-it-and-have-a-healthy-lifestyle-with-free) at [Math StackExchange](http://math.stackexchange.com/)
 
 ## Slides
 
@@ -37,6 +37,7 @@
 - [Mathematics - The Language of the Universe](https://www.youtube.com/watch?v=KWkQU99Aoxg)
 - [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
 - [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
+- [Five Principles of Extraordinary Math Teaching](https://www.youtube.com/watch?v=ytVneQUA5-c) TEDx talk by Dan Finkel
 
 ---
 
@@ -52,7 +53,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Communicating in the Language of Mathematics](http://iae-pedia.org/Communicating_in_the_Language_of_Mathematics) by David Moursund (and Dick Ricketts)
 
-- [How to write mathematics clearly and keep more readers](http://www.learningideas.me.uk/clearmaths) by Matthew Leitch 
+- [How to write mathematics clearly and keep more readers](http://www.learningideas.me.uk/clearmaths) by Matthew Leitch
 
 - [How to understand math formulas](http://www.intmath.com/blog/how-to-understand-math-formulas) at [Interactive Mathematics](http://www.intmath.com/)
 
@@ -61,8 +62,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 #### Papers
 
-- [The Language and Grammar of
-Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
+- [The Language and Grammar of Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 - [Reading Mathematics](http://www.math.cornell.edu/~hubbard/readingmath.pdf) by [John Hamal Hubbard](http://www.math.cornell.edu/~hubbard/)
 
@@ -72,7 +72,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 - [The language and grammar of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/grammar.pdf) by Timothy Gowers
 
-- [Learning the Language of Mathematics](http://wac.colostate.edu/llad/v4n1/jamison.pdf) by Robert E. Jamison 
+- [Learning the Language of Mathematics](http://wac.colostate.edu/llad/v4n1/jamison.pdf) by Robert E. Jamison
 
 
 #### Books
@@ -92,8 +92,8 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 #### Websites
 
-- [http://www.wolframalpha.com/](http://www.wolframalpha.com/)
-- [http://www.mathwords.com/](http://www.mathwords.com/)
+- [Wolfram Alpha](http://www.wolframalpha.com/)
+- [Math Words](http://www.mathwords.com/)
 
 #### Articles
 
@@ -105,35 +105,44 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
 
-- [aTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) at [http://web.ift.uib.no/](http://web.ift.uib.no/) and prepared by L. Kocbach
+- [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) at [http://web.ift.uib.no/](http://web.ift.uib.no/) and prepared by L. Kocbach
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at [Wikipedia](https://en.wikipedia.org)
+
+- [Set notation](https://en.wikipedia.org/wiki/Set_notation) at [Wikipedia](https://en.wikipedia.org)
+
+- [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics) at [Wikipedia](https://en.wikipedia.org)
+
+- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiatio) at [Wikipedia](https://en.wikipedia.org)
+
+- [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject) at [Wikipedia](https://en.wikipedia.org)
+
+- [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms) at [Wikipedia](https://en.wikipedia.org)
 
 #### Papers
 
 - [Mathematical Operators](http://unicode.org/charts/PDF/U2200.pdf) at [http://unicode.org](http://unicode.org)
 
-- [Some Common Mathematical Symbols
-and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf) by Isaiah Lankham, Bruno Nachtergaele, Anne Schilling
+- [Some Common Mathematical Symbols and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Common_Math_Symbols.pdf) by Isaiah Lankham, Bruno Nachtergaele, Anne Schilling
 
 
 #### Online Questions
 
-- [All questions about mathematical **notation** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/notation?sort=votes&pageSize=30) at [http://math.stackexchange.com](http://math.stackexchange.com)
+- [All questions about mathematical **notation** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/notation?sort=votes&pageSize=30) at [Math StackExchange](http://math.stackexchange.com)
 
-- [All questions about mathematical **notation** _sorted in descending order of votes_](http://stackoverflow.com/questions/tagged/mathematical-notation?sort=votes&pageSize=50)  at [http://stackoverflow.com/](http://stackoverflow.com/)
+- [All questions about mathematical **notation** _sorted in descending order of votes_](http://stackoverflow.com/questions/tagged/mathematical-notation?sort=votes&pageSize=50)  at [Stack Overflow](http://stackoverflow.com/)
 
-- [All questions about mathematical **terminology** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/terminology?sort=votes&pageSize=30) at [http://math.stackexchange.com](http://math.stackexchange.com)
+- [All questions about mathematical **terminology** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/terminology?sort=votes&pageSize=30) at [Math StackExchange](http://math.stackexchange.com)
 
 
 
-- [Where can I learn about mathematical notation?](http://math.stackexchange.com/questions/70080/where-can-i-learn-about-mathematical-notation) at [http://math.stackexchange.com](http://math.stackexchange.com)
+- [Where can I learn about mathematical notation?](http://math.stackexchange.com/questions/70080/where-can-i-learn-about-mathematical-notation) at [Math StackExchange](http://math.stackexchange.com)
 
 - [How to learn mathematical notation?](http://stackoverflow.com/questions/720993/how-to-learn-mathematical-notation) at [Stack Overflow](http://stackoverflow.com/)
 
-- [How to become comfortable with mathematical notation?](http://ask.metafilter.com/117088/How-to-become-comfortable-with-mathematical-notation) at [http://ask.metafilter.com/](http://ask.metafilter.com/)
+- [How to become comfortable with mathematical notation?](http://ask.metafilter.com/117088/How-to-become-comfortable-with-mathematical-notation) at [Ask MetaFilter](http://ask.metafilter.com/)
 
-- [What is the status of generating LaTeX from handwriting](http://tex.stackexchange.com/questions/1443/what-is-the-status-of-generating-latex-from-handwriting-i-e-ocr) at [http://tex.stackexchange.com/](http://tex.stackexchange.com/)
+- [What is the status of generating LaTeX from handwriting](http://tex.stackexchange.com/questions/1443/what-is-the-status-of-generating-latex-from-handwriting-i-e-ocr) at [Tex StackExchange](http://tex.stackexchange.com/)
 
 #### Slides
 
@@ -142,6 +151,8 @@ and Abbreviations (with History)](https://www.math.ucdavis.edu/~anne/WQ2007/mat6
 #### Books
 
 - [Mathematical Notation: A Guide for Engineers and Scientists](http://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/ref=sr_1_1?s=books&ie=UTF8&qid=1355100927&sr=1-1&keywords=mathematical+notation) by Edward R. Scheinerman
+
+- [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=dp_ob_title_bk) by George Polya
 
 #### Writing
 

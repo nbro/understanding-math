@@ -141,6 +141,8 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Mathematical Notation: A Guide for Engineers and Scientists](http://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/ref=sr_1_1?s=books&ie=UTF8&qid=1355100927&sr=1-1&keywords=mathematical+notation) by Edward R. Scheinerman
 
+- [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=dp_ob_title_bk) by George Polya
+
 #### Writing
 
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics) at [Wikipedia](https://en.wikipedia.org)

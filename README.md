@@ -105,7 +105,7 @@ Mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
 
-- [aTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) at [http://web.ift.uib.no/](http://web.ift.uib.no/) and prepared by L. Kocbach
+- [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html) at [http://web.ift.uib.no/](http://web.ift.uib.no/) and prepared by L. Kocbach
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at [Wikipedia](https://en.wikipedia.org)
 

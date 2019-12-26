@@ -113,7 +113,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics) at [Wikipedia](https://en.wikipedia.org)
 
-- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiatio) at [Wikipedia](https://en.wikipedia.org)
+- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiation) at [Wikipedia](https://en.wikipedia.org)
 
 - [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject) at [Wikipedia](https://en.wikipedia.org)
 

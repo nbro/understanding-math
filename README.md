@@ -146,7 +146,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 #### Slides
 
-- [MathsNotation2013](https://www.adelaide.edu.au/mathslearning/seminars/MathsNotation2013.pdf) by [https://www.adelaide.edu.au](https://www.adelaide.edu.au)
+- [Maths in Lectures: Understanding the Notation](https://www.adelaide.edu.au/mathslearning/ua/media/210/MathsNotation2013.pdf) by Dr. David Butler
 
 #### Books
 

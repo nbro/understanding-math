@@ -119,6 +119,10 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms) at [Wikipedia](https://en.wikipedia.org)
 
+- [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) at [Wikipedia](https://en.wikipedia.org)
+
+- [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus) at [Wikipedia](https://en.wikipedia.org)
+
 #### Papers
 
 - [Mathematical Operators](http://unicode.org/charts/PDF/U2200.pdf) at [http://unicode.org](http://unicode.org)
@@ -133,8 +137,6 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [All questions about mathematical **notation** _sorted in descending order of votes_](http://stackoverflow.com/questions/tagged/mathematical-notation?sort=votes&pageSize=50)  at [Stack Overflow](http://stackoverflow.com/)
 
 - [All questions about mathematical **terminology** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/terminology?sort=votes&pageSize=30) at [Math StackExchange](http://math.stackexchange.com)
-
-
 
 - [Where can I learn about mathematical notation?](http://math.stackexchange.com/questions/70080/where-can-i-learn-about-mathematical-notation) at [Math StackExchange](http://math.stackexchange.com)
 
@@ -153,6 +155,8 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Mathematical Notation: A Guide for Engineers and Scientists](http://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/ref=sr_1_1?s=books&ie=UTF8&qid=1355100927&sr=1-1&keywords=mathematical+notation) by Edward R. Scheinerman
 
 - [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=dp_ob_title_bk) by George Polya
+
+- [The Cambridge Dictionary of Statistics](http://www.stewartschultz.com/statistics/books/Cambridge%20Dictionary%20Statistics%204th.pdf) by B. S. Everitt and Anders Skrondal
 
 #### Writing
 

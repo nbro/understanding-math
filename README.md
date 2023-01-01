@@ -51,7 +51,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Mathematical Words: Origins and Sources](http://web.archive.org/web/20191204152854/http://www.economics.soton.ac.uk/staff/aldrich/Mathematical%20Words.htm) by John Aldrich
 
-- [Communicating in the Language of Mathematics](http://iae-pedia.org/Communicating_in_the_Language_of_Mathematics) by David Moursund (and Dick Ricketts)
+- [Communicating in the Language of Mathematics](https://web.archive.org/web/20191202000933/http://iae-pedia.org/Communicating_in_the_Language_of_Mathematics) by David Moursund and edited by Dick Ricketts
 
 - [How to write mathematics clearly and keep more readers](http://www.learningideas.me.uk/clearmaths) by Matthew Leitch
 

@@ -14,7 +14,7 @@
 - [Teaching Mathematics for Understanding](http://ptgmedia.pearsoncmg.com/imprint_downloads/merrill_professional/Van_de_Walle_9780132824828.pdf) by Van De Walle
 - [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
 - [How to Survive Your College Math Class (and Take Home Something of Value)](http://www.math.clemson.edu/~mjs/courses/misc/study.pdf) by Matthew Saltzman and Marie Coffin
-- [Mathematics, morally](http://www.cheng.staff.shef.ac.uk/morality/morality.pdf) by Eugenia Cheng
+- [Mathematics, morally](https://eugeniacheng.com/wp-content/uploads/2017/02/cheng-morality.pdf) by Eugenia Cheng
 
 
 ## Online Questions

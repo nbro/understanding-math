@@ -34,7 +34,7 @@
 ## Videos
 
 
-- [Mathematics - The Language of the Universe](https://www.youtube.com/watch?v=KWkQU99Aoxg)
+- [Mathematics - The Language of the Universe](https://www.youtube.com/watch?v=S5LuCwZ0bpg)
 - [The World of Mathematical Reality](https://www.youtube.com/watch?v=V1gT2f3Fe44) by Paul Lockhart
 - [Paul Lockhart teaching Go](https://www.youtube.com/watch?v=vWya5fKwZ38) by Chaelim "Addy" Kim
 - [Five Principles of Extraordinary Math Teaching](https://www.youtube.com/watch?v=ytVneQUA5-c) TEDx talk by Dan Finkel

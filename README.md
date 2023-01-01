@@ -4,7 +4,7 @@
 - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
 - [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [BetterExplained](https://betterexplained.com)
 - [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [Quora](https://www.quora.com)
-- [Understanding Math Concepts](http://www.allkindsofminds.org/thinking-with-numbers-understanding-math-concepts) at [AllKindsOfMinds](http://www.allkindsofminds.org/)
+- [Understanding Math Concepts](https://allkindsofminds.org/understanding-math-concepts/) at [AllKindsOfMinds](http://www.allkindsofminds.org/)
 - [What is conceptual understanding?](https://www.maa.org/external_archive/devlin/devlin_09_07.html) by Keith Devlin
 - [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/) at [BetterExplained](https://betterexplained.com/)
 - [How to study math](http://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx) by [Paul](http://tutorial.math.lamar.edu/)

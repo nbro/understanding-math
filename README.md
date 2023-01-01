@@ -105,7 +105,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
 
-- [LaTeX Math Symbols](http://www-ph.postech.ac.kr/~bimin/Latex.htm) and prepared by L. Kocbach
+- [LaTeX Math Symbols](http://www-ph.postech.ac.kr/~bimin/Latex.htm) prepared by L. Kocbach (on the basis of [another document](https://web.archive.org/web/20190810123256/http://web.ift.uib.no/Fysisk/Teori/KURS/WRK/TeX/latexsource.html) by David Carlisle, Manchester University)
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at [Wikipedia](https://en.wikipedia.org)
 

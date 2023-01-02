@@ -103,6 +103,12 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) at Wikipedia
 - [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus) at Wikipedia
 - [Glossary of set theory](https://en.wikipedia.org/wiki/Glossary_of_set_theory) at Wikipedia
+- [Glossary of linear algebra](https://en.wikipedia.org/wiki/Glossary_of_linear_algebra) at Wikipedia
+- [Glossary of graph theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory) at Wikipedia
+- [Glossary of game theory](https://en.wikipedia.org/wiki/Glossary_of_game_theory) at Wikipedia
+- [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) at Wikipedia
+- [List of mathematical constants](https://en.wikipedia.org/wiki/List_of_mathematical_constants) at Wikipedia
+- [Glossaries of mathematics](https://en.wikipedia.org/wiki/Category:Glossaries_of_mathematics) (it also includes other glossaries for more advanced topics) at Wikipedia
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics) at Wikipedia
 
 

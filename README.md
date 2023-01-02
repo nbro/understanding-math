@@ -102,6 +102,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms) at Wikipedia
 - [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) at Wikipedia
 - [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus) at Wikipedia
+- [Glossary of set theory](https://en.wikipedia.org/wiki/Glossary_of_set_theory) at Wikipedia
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics) at Wikipedia
 
 

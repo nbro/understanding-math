@@ -14,7 +14,7 @@
 
 - [Teaching Mathematics for Understanding](http://ptgmedia.pearsoncmg.com/imprint_downloads/merrill_professional/Van_de_Walle_9780132824828.pdf) by Van De Walle
 - [Can We Make Mathematics Intelligible?](https://www.jstor.org/stable/2321471) (1981) by R. P. Boas
-- [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
+- [A Mathematician's Lament](https://web.archive.org/web/20201210045725/https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by Paul Lockhart
 - [How to Survive Your College Math Class (and Take Home Something of Value)](http://www.math.clemson.edu/~mjs/courses/misc/study.pdf) by Matthew Saltzman and Marie Coffin
 - [Mathematics, morally](https://eugeniacheng.com/wp-content/uploads/2017/02/cheng-morality.pdf) by Eugenia Cheng
 

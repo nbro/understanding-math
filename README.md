@@ -85,26 +85,26 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
 - [LaTeX Math Symbols](https://web.archive.org/web/20190423203742/http://www-ph.postech.ac.kr/~bimin/Latex.htm) prepared by L. Kocbach (on the basis of [another document](https://web.archive.org/web/20190810123256/http://web.ift.uib.no/Fysisk/Teori/KURS/WRK/TeX/latexsource.html) by David Carlisle, Manchester University)
 
-#### Wikipedia
+##### Wikipedia
 
 - [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
-##### Symbols
+###### Symbols
 
 - [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
 - [List of mathematical constants](https://en.wikipedia.org/wiki/List_of_mathematical_constants) 
 - [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 - [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode)
 
-##### Notation
+###### Notation
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation)
 - [Set notation](https://en.wikipedia.org/wiki/Set_notation)
 - [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics)
 - [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiation)
 
-#### Glossaries
+###### Glossaries
 
 - [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) 
 - [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus)

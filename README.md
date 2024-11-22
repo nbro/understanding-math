@@ -62,7 +62,6 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Reading Mathematics](https://pi.math.cornell.edu/~hubbard/readingmath.pdf) by [John Hamal Hubbard](https://pi.math.cornell.edu/~hubbard/)
 - [A Guide to Writing Mathematics](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) by Dr. Kevin P. Lee
 - [Mathematics and the Language of Nature](http://www.fdavidpeat.com/bibliography/essays/maths.htm) by F. David Peat
-- [The language and grammar of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/grammar.pdf) by Timothy Gowers
 - [Learning the Language of Mathematics](http://wac.colostate.edu/llad/v4n1/jamison.pdf) by Robert E. Jamison
 
 

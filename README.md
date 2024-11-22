@@ -81,27 +81,39 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 #### Articles
 
-- [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) at Wikipedia
-- [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) at Wikipedia
 - [History of mathematical notation](https://en.wikipedia.org/wiki/History_of_mathematical_notation) at Wikipedia
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
 - [LaTeX Math Symbols](https://web.archive.org/web/20190423203742/http://www-ph.postech.ac.kr/~bimin/Latex.htm) prepared by L. Kocbach (on the basis of [another document](https://web.archive.org/web/20190810123256/http://web.ift.uib.no/Fysisk/Teori/KURS/WRK/TeX/latexsource.html) by David Carlisle, Manchester University)
-- [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at Wikipedia
-- [Set notation](https://en.wikipedia.org/wiki/Set_notation) at Wikipedia
-- [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics) at Wikipedia
-- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiation) at Wikipedia
-- [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject) at Wikipedia
-- [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#Statistics_synonyms) at Wikipedia
-- [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) at Wikipedia
-- [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus) at Wikipedia
-- [Glossary of set theory](https://en.wikipedia.org/wiki/Glossary_of_set_theory) at Wikipedia
-- [Glossary of linear algebra](https://en.wikipedia.org/wiki/Glossary_of_linear_algebra) at Wikipedia
-- [Glossary of graph theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory) at Wikipedia
-- [Glossary of game theory](https://en.wikipedia.org/wiki/Glossary_of_game_theory) at Wikipedia
-- [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) at Wikipedia
-- [List of mathematical constants](https://en.wikipedia.org/wiki/List_of_mathematical_constants) at Wikipedia
-- [Glossaries of mathematics](https://en.wikipedia.org/wiki/Category:Glossaries_of_mathematics) (it also includes other glossaries for more advanced topics) at Wikipedia
-- [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics) at Wikipedia
+
+#### Wikipedia
+
+- [Statistics synonyms](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)
+- [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+##### Symbols
+
+- [List of mathematical symbols by subject](https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
+- [List of mathematical constants](https://en.wikipedia.org/wiki/List_of_mathematical_constants) 
+- [List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
+- [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode)
+
+##### Notation
+
+- [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation)
+- [Set notation](https://en.wikipedia.org/wiki/Set_notation)
+- [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics)
+- [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiation)
+
+#### Glossaries
+
+- [Glossary of probability and statistics](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics) 
+- [Glossary of calculus](https://en.wikipedia.org/wiki/Glossary_of_calculus)
+- [Glossary of set theory](https://en.wikipedia.org/wiki/Glossary_of_set_theory)
+- [Glossary of linear algebra](https://en.wikipedia.org/wiki/Glossary_of_linear_algebra)
+- [Glossary of graph theory](https://en.wikipedia.org/wiki/Glossary_of_graph_theory)
+- [Glossary of game theory](https://en.wikipedia.org/wiki/Glossary_of_game_theory)
+- [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+- [Glossaries of mathematics](https://en.wikipedia.org/wiki/Category:Glossaries_of_mathematics) 
 
 
 #### Papers

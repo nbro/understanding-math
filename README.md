@@ -38,7 +38,6 @@
 ## Online Questions
 
 - [How to study math to really understand it and have a healthy lifestyle with free time?](http://math.stackexchange.com/questions/44704/how-to-study-math-to-really-understand-it-and-have-a-healthy-lifestyle-with-free) at [Math StackExchange](http://math.stackexchange.com/)
-- [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [Quora](https://www.quora.com)
 
 ---
 

@@ -100,6 +100,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 ###### Notation
 
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation)
+- [Mathematical notation (category)](https://en.wikipedia.org/wiki/Category:Mathematical_notation)
 - [Set notation](https://en.wikipedia.org/wiki/Set_notation)
 - [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics)
 - [Notation for differentiation](https://en.wikipedia.org/wiki/Notation_for_differentiation)

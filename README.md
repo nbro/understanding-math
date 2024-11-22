@@ -144,7 +144,6 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [All questions about mathematical **notation** _sorted in descending order of votes_](http://stackoverflow.com/questions/tagged/mathematical-notation?sort=votes&pageSize=50)  at [Stack Overflow](http://stackoverflow.com/)
 - [All questions about mathematical **terminology** _sorted in descending order of votes_](http://math.stackexchange.com/questions/tagged/terminology?sort=votes&pageSize=30) at [Math StackExchange](http://math.stackexchange.com)
 - [Where can I learn about mathematical notation?](http://math.stackexchange.com/questions/70080/where-can-i-learn-about-mathematical-notation) at [Math StackExchange](http://math.stackexchange.com)
-- [How to learn mathematical notation?](http://stackoverflow.com/questions/720993/how-to-learn-mathematical-notation) at [Stack Overflow](http://stackoverflow.com/)
 - [How to become comfortable with mathematical notation?](http://ask.metafilter.com/117088/How-to-become-comfortable-with-mathematical-notation) at [Ask MetaFilter](http://ask.metafilter.com/)
 - [What is the status of generating LaTeX from handwriting](http://tex.stackexchange.com/questions/1443/what-is-the-status-of-generating-latex-from-handwriting-i-e-ocr) at [Tex StackExchange](http://tex.stackexchange.com/)
 

@@ -67,7 +67,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 
 #### Books
 
-- [Handbook for Spoken Mathematics](https://www.academia.edu/28253460/Handbook_for_Spoken_Mathematics_Larrys_Speakeasy) by Lawrence A. Chang, Ph.D. (with assistance from Carol M. White and Lila Abrahamson)
+- [Handbook for Spoken Mathematics](https://archive.org/details/handbook-for-spoken-mathematics-larrys-s/mode/2up) by Lawrence A. Chang et al.
 - [A Handbook of Mathematical Discourse](http://www.abstractmath.org/Handbook/handbook.pdf) by Charles Wells
 
 

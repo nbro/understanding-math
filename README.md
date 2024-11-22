@@ -85,7 +85,7 @@ Links to resources talking about "the mathematical language" and how to overcome
 - [Mathematical operators and symbols in Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode) at Wikipedia
 - [History of mathematical notation](https://en.wikipedia.org/wiki/History_of_mathematical_notation) at Wikipedia
 - [Mathematical and scientific symbols](http://www.uefap.com/speaking/symbols/symbols.htm) at [http://www.uefap.com/](http://www.uefap.com/)
-- [LaTeX Math Symbols](http://www-ph.postech.ac.kr/~bimin/Latex.htm) prepared by L. Kocbach (on the basis of [another document](https://web.archive.org/web/20190810123256/http://web.ift.uib.no/Fysisk/Teori/KURS/WRK/TeX/latexsource.html) by David Carlisle, Manchester University)
+- [LaTeX Math Symbols](https://web.archive.org/web/20190423203742/http://www-ph.postech.ac.kr/~bimin/Latex.htm) prepared by L. Kocbach (on the basis of [another document](https://web.archive.org/web/20190810123256/http://web.ift.uib.no/Fysisk/Teori/KURS/WRK/TeX/latexsource.html) by David Carlisle, Manchester University)
 - [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation) at Wikipedia
 - [Set notation](https://en.wikipedia.org/wiki/Set_notation) at Wikipedia
 - [Notation in probability and statistics](https://en.wikipedia.org/wiki/Notation_in_probability_and_statistics) at Wikipedia
